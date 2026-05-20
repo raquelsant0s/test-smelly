@@ -1,4 +1,4 @@
-const { UserService } = require ('../src/userService');
+const { UserService } = require ('./src/userService');
 
 const dadosUsuarioPadrao = {
   nome: 'Fulano de Tal',
